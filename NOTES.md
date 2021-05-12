@@ -19,3 +19,8 @@ KAIP IŠVALYTI:
 4. jei:
 4a. nesuveike - kartoti is naujo (ziureti step 1)
 4b. suveike - npm run dev
+
+
+css import
+js import/export
+
